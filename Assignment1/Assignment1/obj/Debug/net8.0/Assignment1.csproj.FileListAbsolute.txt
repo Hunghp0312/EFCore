@@ -146,8 +146,6 @@ D:\dotnet\EFCore\Assignment1\Assignment1\bin\Debug\net8.0\runtimes\win\lib\net6.
 D:\dotnet\EFCore\Assignment1\Assignment1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\dotnet\EFCore\Assignment1\Assignment1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\dotnet\EFCore\Assignment1\Assignment1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\dotnet\EFCore\Assignment1\Assignment1\bin\Debug\net8.0\Domain.dll
-D:\dotnet\EFCore\Assignment1\Assignment1\bin\Debug\net8.0\Domain.pdb
 D:\dotnet\EFCore\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.csproj.AssemblyReference.cache
 D:\dotnet\EFCore\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
 D:\dotnet\EFCore\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
