@@ -1,0 +1,11 @@
+D:\dotnet\EFCore\Assignment1\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\dotnet\EFCore\Assignment1\Domain\bin\Debug\net8.0\Domain.dll
+D:\dotnet\EFCore\Assignment1\Domain\bin\Debug\net8.0\Domain.pdb
+D:\dotnet\EFCore\Assignment1\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\EFCore\Assignment1\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\dotnet\EFCore\Assignment1\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\dotnet\EFCore\Assignment1\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\dotnet\EFCore\Assignment1\Domain\obj\Debug\net8.0\Domain.dll
+D:\dotnet\EFCore\Assignment1\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\dotnet\EFCore\Assignment1\Domain\obj\Debug\net8.0\Domain.pdb
+D:\dotnet\EFCore\Assignment1\Domain\obj\Debug\net8.0\ref\Domain.dll

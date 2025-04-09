@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\EFCore\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\data\\entitytypeconfigurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\entitytypeconfigurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\data\\entitytypeconfigurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\entitytypeconfigurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\data\\entitytypeconfigurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\entitytypeconfigurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\data\\entitytypeconfigurations\\projectemployeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\entitytypeconfigurations\\projectemployeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\data\\entitytypeconfigurations\\salaryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\entitytypeconfigurations\\salaryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\entity\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\entity\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\entity\\projectemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\entity\\projectemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\entity\\salaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\entity\\salaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\assignment1.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\assignment1.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|d:\\dotnet\\efcore\\assignment1\\assignment1\\assignment1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3D2D7C4A-7F55-47B0-A2FD-6CCA09E97C08}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\assignment1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Assignment1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:06:56.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Entity\\Project.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Entity\\Project.cs",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Entity\\Project.cs",
+              "RelativeToolTip": "Assignment1\\Entity\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:20:05.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Entity\\Employee.cs",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Entity\\Employee.cs",
+              "RelativeToolTip": "Assignment1\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:18:53.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Entity\\Department.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Entity\\Department.cs",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Entity\\Department.cs",
+              "RelativeToolTip": "Assignment1\\Entity\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:20:07.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectConfiguration.cs",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Data\\EntityTypeConfigurations\\ProjectConfiguration.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\EntityTypeConfigurations\\ProjectConfiguration.cs",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Data\\EntityTypeConfigurations\\ProjectConfiguration.cs",
+              "RelativeToolTip": "Assignment1\\Data\\EntityTypeConfigurations\\ProjectConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:24:14.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectEmployeeConfiguration.cs",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Data\\EntityTypeConfigurations\\ProjectEmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\EntityTypeConfigurations\\ProjectEmployeeConfiguration.cs",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Data\\EntityTypeConfigurations\\ProjectEmployeeConfiguration.cs",
+              "RelativeToolTip": "Assignment1\\Data\\EntityTypeConfigurations\\ProjectEmployeeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:26:03.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Data\\EntityTypeConfigurations\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\EntityTypeConfigurations\\EmployeeConfiguration.cs",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Data\\EntityTypeConfigurations\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "Assignment1\\Data\\EntityTypeConfigurations\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:18:06.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Data\\EntityTypeConfigurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\EntityTypeConfigurations\\DepartmentConfiguration.cs",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Data\\EntityTypeConfigurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "Assignment1\\Data\\EntityTypeConfigurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:13:54.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalaryConfiguration.cs",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Data\\EntityTypeConfigurations\\SalaryConfiguration.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Data\\EntityTypeConfigurations\\SalaryConfiguration.cs",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Data\\EntityTypeConfigurations\\SalaryConfiguration.cs",
+              "RelativeToolTip": "Assignment1\\Data\\EntityTypeConfigurations\\SalaryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:28:40.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectEmployee.cs",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Entity\\ProjectEmployee.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Entity\\ProjectEmployee.cs",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Entity\\ProjectEmployee.cs",
+              "RelativeToolTip": "Assignment1\\Entity\\ProjectEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:20:03.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Salaries.cs",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Entity\\Salaries.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Entity\\Salaries.cs",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Entity\\Salaries.cs",
+              "RelativeToolTip": "Assignment1\\Entity\\Salaries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:19:49.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Assignment1.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Assignment1.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "Assignment1\\Assignment1.csproj.Backup.tmp",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Assignment1.csproj.Backup.tmp",
+              "RelativeToolTip": "Assignment1\\Assignment1.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-09T08:29:37.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Program.cs",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Assignment1\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:11:22.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignment1\\appsettings.json",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\appsettings.json",
+              "RelativeToolTip": "Assignment1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T07:51:06.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Assignment1.http",
+              "DocumentMoniker": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Assignment1.http",
+              "RelativeDocumentMoniker": "Assignment1\\Assignment1.http",
+              "ToolTip": "D:\\dotnet\\EFCore\\Assignment1\\Assignment1\\Assignment1.http",
+              "RelativeToolTip": "Assignment1\\Assignment1.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-09T08:29:34.485Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
